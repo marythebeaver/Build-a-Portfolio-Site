@@ -71,7 +71,9 @@ body {
 }
 
 
-.appify, .sunflower, .bokeh {
+.appify,
+.sunflower,
+.bokeh {
   width:80%;
   padding:10px;
   margin-left: auto;
@@ -79,7 +81,11 @@ body {
 }
 
 
-.item1, .item2, .item3 p, h2 {
+.item1,
+.item2,
+.item3
+p,
+h2 {
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
   line-height:0;
@@ -94,7 +100,9 @@ body {
 
 @media screen and (min-width: 361px) and (max-width: 768px) {
 
-  .appify, .sunflower, .bokeh{
+ .appify,
+ .sunflower,
+ .bokeh{
     width:300px;
     padding:10px;
     margin-left: auto;
@@ -105,7 +113,9 @@ body {
 
 @media screen and (min-width: 769px) {
 
-  .appify, .sunflower, .bokeh{
+ .appify,
+ .sunflower,
+ .bokeh{
     width:300px;
     padding:10px;
     margin-left: auto;
@@ -116,7 +126,9 @@ body {
 
 @media screen and (min-width: 1157px) {
 
-  .appify, .sunflower, .bokeh{
+ .appify,
+ .sunflower,
+ .bokeh{
     width:300px;
     padding:10px;
     margin-left: auto;
